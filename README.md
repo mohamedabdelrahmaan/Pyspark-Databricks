@@ -29,8 +29,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [Databricks](https://databricks.com/)
-- [Apache Spark](https://spark.apache.org/)
+- https://drive.google.com/drive/folders/1_ZvTXHun4pooBUxcZlmDiiKl6eQb4ghf?usp=sharing
 
 Feel free to explore the provided code for learning and reference purposes.
 
